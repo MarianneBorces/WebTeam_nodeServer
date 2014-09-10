@@ -1,7 +1,9 @@
 * Clone Repo
     https://github.com/krztnkho/WebTeam_nodeServer.git
 
-* Run npm install
+* Run `npm install`
+
+* Or
     npm install xml2js
     npm install express
 
