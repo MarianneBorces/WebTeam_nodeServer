@@ -3,8 +3,11 @@
 		<title>RSS Feed Parser</title>
 	</head>
 	<body>
-		URL: <input type='text' placeholder='enter url or filename' name='url' /> <br>
-
+		<form method="post" action="/RSSFeedParser/convert">
+			<fieldset>
+			URL: <input type='text' placeholder='enter url or filename' name='rssurl' value=''> <br>
+			<input type="submit">
+			</fieldset>
+		</form>
 	</body>
-
 </html>

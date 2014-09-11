@@ -17,9 +17,9 @@
     "url": "https://github.com/krztnkho/WebTeam_nodeServer/issues"
   },
   "homepage": "https://github.com/krztnkho/WebTeam_nodeServer",
-  "dependencies" : {
-    "express" : "*",
-    "xml2js"  : "*"
-
+  "dependencies": {
+    "express": "*",
+    "xml2js": "*",
+    "body-parser": "~1.8.1"
   }
 }
